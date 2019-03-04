@@ -26,6 +26,25 @@ java Interview technical programs
          
          The median is (2 + 3)/2 = 2.5
 
+**P-4:** Pyramid pattern using string character
+
+
+       
+         Example 1:
+         
+         Input: s = "abcdefghij", numRows = 4
+         Output:       a 
+                      b c 
+                     d e f 
+                    g h i j
+        
+
+**P-5:** Given a 32-bit signed integer, reverse digits of an integer.
+        Example 1:
+         
+         Input: 123
+         Output: 321 
+       
 
 **P-2:** Given a string, find the length of the longest substring without repeating characters.
          
