@@ -39,6 +39,12 @@ java Interview technical programs
                     g h i j
         
 
+**P-5:** Given a 32-bit signed integer, reverse digits of an integer.
+        Example 1:
+         
+         Input: 123
+         Output: 321 
+       
 
 **P-2:** Given a string, find the length of the longest substring without repeating characters.
          
