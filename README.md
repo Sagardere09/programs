@@ -10,6 +10,15 @@ java Interview technical programs
          return [0, 1].
  
 
+**P-2:** Given a string, find the length of the longest substring without repeating characters.
+         
+         Example 1:
+         
+         Input: "abcabcbb"
+         Output: 3 
+         Explanation: The answer is "abc", with the length of 3. 
+         
+
 **P-3:** You may assume nums1 and nums2 cannot be both empty.
        Example 1:
          
@@ -46,10 +55,10 @@ java Interview technical programs
          Output: 321 
        
 
-**P-2:** Given a string, find the length of the longest substring without repeating characters.
+**P-6:** find largest and second largest number in an array.
+        Example 1:
          
-         Example 1:
-         
-         Input: "abcabcbb"
-         Output: 3 
-         Explanation: The answer is "abc", with the length of 3. 
+         Input: [1,8,6,2,5,4,8,3,7]
+         Output: 8 , 7
+   
+        
