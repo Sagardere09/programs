@@ -10,6 +10,15 @@ java Interview technical programs
          return [0, 1].
  
 
+**P-2:** Given a string, find the length of the longest substring without repeating characters.
+         
+         Example 1:
+         
+         Input: "abcabcbb"
+         Output: 3 
+         Explanation: The answer is "abc", with the length of 3. 
+         
+
 **P-3:** You may assume nums1 and nums2 cannot be both empty.
        Example 1:
          
@@ -46,10 +55,61 @@ java Interview technical programs
          Output: 321 
        
 
-**P-2:** Given a string, find the length of the longest substring without repeating characters.
+**P-6:** find largest and second largest number in an array.
+        Example 1:
          
+         Input: [1,8,6,2,5,4,8,3,7]
+         Output: 8 , 7
+   
+        
+**P-7:** Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
+
+            Symbol       Value
+            I             1
+            V             5
+            X             10
+            L             50
+            
+  
+      Input: 3
+      Output: "III"
+      Input: 9
+      Output: "IX"
+   
+
+**P-7:** Given a string containing digits from 2-9 inclusive, return all possible letter combinations that the number could represent.
+
+    A mapping of digit to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters.
+    
+    
+   
+    Example:
+    
+    Input: 23
+    Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"].
+
+
+**P-8:** Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
+
+         Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
+
+       
          Example 1:
          
-         Input: "abcabcbb"
-         Output: 3 
-         Explanation: The answer is "abc", with the length of 3. 
+         Given nums = [1,1,2],
+         
+         Your function should return length = 2, with the first two elements of nums being 1 and 2 respectively.
+
+       
+**P-9:** Given a string contains some words reverse that string 
+     
+       
+         Example 1: 
+         
+         Given string = "I am Sagar Dere;
+         
+         Output = "Dere Sagar am I"
+        
+
+
+
