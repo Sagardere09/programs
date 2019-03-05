@@ -29,8 +29,8 @@ public class LetterCombinationOfphoneNumber {
         }
     }
     List<String> combinationList = new ArrayList<>();
-    for(int i = 0 ; i< 3; i++){
-            for(int j = 0 ; j< 3; j++){
+    for(int i = 0 ; i< str1.length(); i++){
+            for(int j = 0 ; j< str2.length(); j++){
                combinationList.add(""+str1.charAt(i)+str2.charAt(j));
             }
     }
