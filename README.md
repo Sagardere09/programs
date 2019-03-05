@@ -62,3 +62,18 @@ java Interview technical programs
          Output: 8 , 7
    
         
+**P-7:** Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
+
+            Symbol       Value
+            I             1
+            V             5
+            X             10
+            L             50
+            
+  
+      Input: 3
+      Output: "III"
+      Input: 9
+      Output: "IX"
+   
+
