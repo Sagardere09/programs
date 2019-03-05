@@ -106,9 +106,20 @@ java Interview technical programs
        
          Example 1: 
          
-         Given string = "I am Sagar Dere;
+         Given string = "I am Sagar Dere";
          
-         Output = "Dere Sagar am I"
+         Output = Dere Sagar am I
+        
+
+
+**P-10:** Given a number convert into real words 
+     
+       
+         Example 1: 
+         
+         Given number = 3333
+         
+         Output = Three Thousand Three Hundred Thirty Three
         
 
 
