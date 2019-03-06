@@ -159,3 +159,27 @@ java Interview technical programs
      Output: String is not palindrome.
  
  
+**P-13:** Print given number fibonnaci series. 
+    
+     Example:
+     
+     Input: 5
+     Output: 0, 1,1,2,3,5
+ 
+ 
+ **P-14:** Print given number factorial. 
+     
+      Example:
+      
+      Input: 5
+      Output: 120
+  
+  **P-15:** Given String find the number print sum. 
+       
+        Example:
+        
+        Input: s2fd3gh6kh9
+        Output: 2+3+6+9 = 20
+    
+    
+    
