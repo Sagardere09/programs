@@ -117,9 +117,9 @@ java Interview technical programs
        
          Example 1: 
          
-         Given number = 3333
+         Given number = 189456
          
-         Output = Three Thousand Three Hundred Thirty Three
+         Output = One Lakhs Eighty Nine Thousand Four Hundred Fifty Six
         
 
 
