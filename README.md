@@ -77,17 +77,6 @@ java Interview technical programs
       Output: "IX"
    
 
-**P-7:** Given a string containing digits from 2-9 inclusive, return all possible letter combinations that the number could represent.
-
-    A mapping of digit to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters.
-    
-    
-   
-    Example:
-    
-    Input: 23
-    Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"].
-
 
 **P-8:** Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
 
@@ -117,10 +106,46 @@ java Interview technical programs
        
          Example 1: 
          
-         Given number = 3333
+         Given number = 189456
          
-         Output = Three Thousand Three Hundred Thirty Three
+         Output = One Lakhs Eighty Nine Thousand Four Hundred Fifty Six
         
+
+**P-11:** You are given an n x n 2D matrix representing an image.
+
+    Rotate the image by 90 degrees (clockwise).
+    
+    Note:
+    
+    You have to rotate the image in-place, which means you have to modify the input 2D matrix directly. DO NOT allocate another 2D matrix and do the rotation.
+    
+    Example 1:
+    
+    Given input matrix = 
+    [
+      [1,2,3],
+      [4,5,6],
+      [7,8,9]
+    ],
+    
+    rotate the input matrix in-place such that it becomes:
+    [
+      [7,4,1],
+      [8,5,2],
+      [9,6,3]
+    ]
+
+**P-12:** Given a string containing digits from 2-9 inclusive, return all possible letter combinations that the number could represent.
+
+    A mapping of digit to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters.
+    
+    
+   
+    Example:
+    
+    Input: 23
+    Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"].
+
 
 
 
