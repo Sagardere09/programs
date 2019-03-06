@@ -149,3 +149,13 @@ java Interview technical programs
 
 
 
+**P-13:** Find Out string is palindrome or not. 
+    
+     Example:
+     
+     Input: madam
+     Output: String is palindrome.
+     Input: sagar
+     Output: String is not palindrome.
+ 
+ 
